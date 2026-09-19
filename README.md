@@ -41,7 +41,7 @@ FXI 缺乏是一种罕见的出血性疾病，历史上也称为血友病 C 或 
 
 FXI 也是抗血栓研究关注的靶点之一。相关研究正在探索 FXI/FXIa 抑制与血栓预防、正常止血之间的关系。
 
-> data.csv 为课程作业使用的教学整理数据，不代表真实患者数据，也不能用于临床诊断。
+> data.csv 数据仅供参考。
 
 ## 可复现性
 项目不依赖网络数据。安装 requirements.txt 中的依赖后，直接运行 analysis.py 或 analysis.ipynb 即可重复分析流程。
@@ -62,5 +62,3 @@ git push origin v1.0.0
 3. Factor XI deficiency 相关综述。
 4. FXI/FXIa 抑制剂相关研究。
 
-## 许可证
-本项目仅用于学习和课程作业，不用于医学诊断或临床决策。
