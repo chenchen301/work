@@ -1,0 +1,17 @@
+topic,indicator,value,unit,interpretation
+Structure,Canonical protein length,625,amino_acids,Human canonical FXI protein
+Structure,Apple domains,4,count,Each FXI subunit contains four Apple domains
+Structure,Protease domain,1,count,Each subunit has a serine protease domain
+Structure,Plasma form,Homodimer,,FXI circulates as a homodimer
+Function,Activation product,FXIa,,Activated FXI is called FXIa
+Function,Main substrate,FIX,,FXIa activates factor IX
+Function,Pathway,Intrinsic,,FXI participates in the intrinsic pathway
+Function,Activator,FXIIa,,Factor XIIa can activate FXI
+Function,Feedback activator,Thrombin,,Thrombin can also activate FXI
+Disease,Historical name,Hemophilia C,,Historical term for FXI deficiency
+Disease,Alternative name,Rosenthal syndrome,,Another name for FXI deficiency
+Disease,aPTT tendency,Prolonged,,FXI deficiency commonly prolongs aPTT
+Disease,Bleeding pattern,Variable,,Bleeding tendency varies between individuals
+Research,Main research interest,Thrombosis,,FXI is studied as an antithrombotic target
+Research,Main safety question,Bleeding,,FXI inhibition is studied with bleeding risk in mind
+Research,Current direction,FXI inhibitors,,Research includes FXI and FXIa inhibitors
